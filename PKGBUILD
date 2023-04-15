@@ -2,7 +2,7 @@
 pkgname=xero-xfce-config
 _destname1="/etc"
 pkgver=23.04
-pkgrel=1
+pkgrel=2
 pkgdesc="Desktop Config for XeroXFCE"
 arch=('any')
 url="https://github.com/XeroLinux"
