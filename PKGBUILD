@@ -1,8 +1,8 @@
 # Maintainer: DarkXero <info@techxero.com>
 pkgname=xero-xfce-config
 _destname1="/etc"
-pkgver=23.04
-pkgrel=8
+pkgver=23.05
+pkgrel=1
 pkgdesc="Desktop Config for XeroXFCE"
 arch=('any')
 url="https://github.com/XeroLinux"
